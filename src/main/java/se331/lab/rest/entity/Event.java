@@ -28,4 +28,6 @@ public class Event {
 
     @ManyToMany(mappedBy = "eventHistory")
     List<Participant> participants;
+    @ElementCollection
+    List<String> images;
 }
