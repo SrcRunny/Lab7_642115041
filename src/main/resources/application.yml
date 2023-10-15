@@ -20,3 +20,4 @@ application:
       expiration: 86400000 # 86400000 # a day
       refresh-token:
         expiration: 604800000 # 7 days
+      secret-key: RNbqR9W4lhxFilcZD7RETnAj26mb0OCq7L9XsnjROcJBQ2N5q5yvfKJitjTKY5HJVqQ8hvm47PVOudjE7vfK5WEGu2tBAT5F6Sg8MegcJCCW8icrrzloAMIcT51tUcY0QEcFdxcKvHtcEImtF13CmLlj1ObwPVYQDm4lNuoQuXjx5s1moL+oRWh3jPqgbbpuvS3wvXGIf6dsKY8yEx1P8V3qxAl/+QiZFdayjH4u9jK8iwFdllhseMh+upc81Yfo+moDcaME+CRIO/zWCiK6NypwzIkJcVfpo73lXWkvsMcDCiQ+duGmrXjMymw7k9shQn6wDmFjbxp4sKN5ukIKKjA+/3y39VwzTO4apE3AuS0pQsTdEM8notnJVLQ7/VNg+rS328kDrInj1ROl7YrWzBAjXciAf2WXh7YEI3hA/lXCv0ePAeUnwfxRpVqdvVrtafgJqWYyvxtRkBRpIhvIsSV788+uNOLJqJjQ4pcONb0Ts9fa613sNmm5QaN7LG/QuCScSzECMMM0Z8gD7cVBZP7GQI3xJ4ztSPmN1mCTMGBP3DaoSFTzoYbEQ/MFc94D3G/BPLpXyvEFZHDvkZPUTKqbYxB9xeg7effWtJjYlZ9ncRgnIYk3IFGEbqYqpaO45X3LQB/zuiX+HDrb0/YGrYwqKK+ELFtpQRs/9otT/pEA+bWNq9k/3Dwii1xe5juC
